@@ -9,4 +9,4 @@
 
 ## 🌟 Github stats and activity
 
-![g3zb0yy's github stats](https://github-readme-stats.vercel.app/api?username=NeiiZun&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g3zb0yy&layout=compact)
+![g3zb0yy's github stats](https://github-readme-stats.vercel.app/api?username=g3zb0yy&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g3zb0yy&layout=compact)
