@@ -1,5 +1,5 @@
 ## <code style="color:#0197FF">👤 About me</code>
-I'm g3zb0yy, young Python and web developer. In this github i share public projects that are not very official.
+I'm g3zb0yy, young Python and web developer. In this github i share public projects that are not very official.<br/><br/>
 
 ## <code style="color:#0197FF">🔍 Tools & Technologies</code>
 
@@ -7,7 +7,7 @@ I'm g3zb0yy, young Python and web developer. In this github i share public proje
 ![](https://img.shields.io/badge/Code%20with-Python-informational?style=flat&logo=python&logoColor=0197FF&color=0197FF)
 ![](https://img.shields.io/badge/Using-Flask-informational?style=flat&logo=flask&logoColor=0197FF&color=0197FF) 
 ![](https://img.shields.io/badge/Using-MysQL-informational?style=flat&logo=mysql&logoColor=0197FF&color=0197FF)
-![](https://img.shields.io/badge/Using-Windows-informational?style=flat&logo=Windows&logoColor=0197FF&color=0197FF)
+![](https://img.shields.io/badge/Using-Windows-informational?style=flat&logo=Windows&logoColor=0197FF&color=0197FF)<br/><br/>
 
 
 ## <code style="color:#0197FF">🌟 Github stats and activity</code>
