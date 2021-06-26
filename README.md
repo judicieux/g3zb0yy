@@ -1,12 +1,11 @@
 ### 🔍 Tools & Technologies
 
-![](https://img.shields.io/badge/Code%20with-Python-informational?style=flat&logo=python&logoColor=0197FF&color=0197FF) 
-![](https://img.shields.io/badge/Code%20with-Java-informational?style=flat&logo=java&logoColor=0197FF&color=0197FF) 
+![](https://img.shields.io/badge/Code%20with-Php-informational?style=flat&logo=php&logoColor=0197FF&color=0197FF) 
+![](https://img.shields.io/badge/Code%20with-Python-informational?style=flat&logo=python&logoColor=0197FF&color=0197FF)
+![](https://img.shields.io/badge/Using-Flask-informational?style=flat&logo=flask&logoColor=0197FF&color=0197FF) 
 ![](https://img.shields.io/badge/Using-MysQL-informational?style=flat&logo=mysql&logoColor=0197FF&color=0197FF)
 ![](https://img.shields.io/badge/Using-Windows-informational?style=flat&logo=Windows&logoColor=0197FF&color=0197FF)
-![](https://img.shields.io/badge/Using-Guice-informational?style=flat&logo=google&logoColor=0197FF&color=0197FF)
-![](https://img.shields.io/badge/Using-Flask-informational?style=flat&logo=flask&logoColor=0197FF&color=0197FF)
-![](https://img.shields.io/badge/Using-Spigot%20and%20Bukkit-informational?style=flat&logo=pickaxe&logoColor=0197FF&color=0197FF)
+
 
 ## 🌟 Github stats and activity
 
