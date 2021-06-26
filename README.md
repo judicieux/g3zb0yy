@@ -7,6 +7,6 @@
 ![](https://img.shields.io/badge/Using-Windows-informational?style=flat&logo=Windows&logoColor=0197FF&color=0197FF)
 
 
-## 🌟 Github stats and activity
+## <code style="color:blue">🌟 Github stats and activity</code>
 
 ![g3zb0yy's github stats](https://github-readme-stats.vercel.app/api?username=g3zb0yy&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g3zb0yy&layout=compact)
