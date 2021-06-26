@@ -1,3 +1,6 @@
+# About me
+I'm g3zb0yy, young Python and web developer. In this github i share public projects that are not very official.
+
 ## <code style="color:#0197FF">🔍 Tools & Technologies</code>
 
 ![](https://img.shields.io/badge/Code%20with-Php-informational?style=flat&logo=php&logoColor=0197FF&color=0197FF) 
