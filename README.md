@@ -2,7 +2,7 @@
 <code>io, i'm g3zb0yy.</code><br/> 
 <code>Young Python and Web developer.</code><br/> 
 <code>I use github incidentally to expose my semi-public projects.</code><br/>
-<code>On the one hand to memorize my creations and on the other to show people how far I am in my progress.</code><br/><br/>
+<code>On the one hand to memorize my creations and on the other to show people how far I am in my progression.</code><br/><br/>
 
 ## <code style="color:#0197FF">🔍 Tools & Technologies</code>
 
