@@ -1,6 +1,6 @@
 ## <code style="color:#0197FF">👤 About me</code>
-I'm g3zb0yy, young Python and web developer.<br/> 
-In this github i share public projects just for my personal self-improvement.<br/><br/>
+<u>**I'm g3zb0yy, young Python and web developer.**</u><br/> 
+<u>**In this github i share public projects just for my personal self-improvement.**</u><br/><br/>
 
 ## <code style="color:#0197FF">🔍 Tools & Technologies</code>
 
