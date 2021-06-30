@@ -7,6 +7,7 @@
 ## <code style="color:#0197FF">🔍 Tools & Technologies</code>
 
 ![](https://img.shields.io/badge/Code%20with-Php-informational?style=flat&logo=php&logoColor=0197FF&color=0197FF)
+![](https://img.shields.io/badge/Using-Vue.js-informational?style=flat&logo=Vue.js&logoColor=0197FF&color=0197FF)
 ![](https://img.shields.io/badge/Using-MySQL-informational?style=flat&logo=mysql&logoColor=0197FF&color=0197FF) 
 ![](https://img.shields.io/badge/Code%20with-Python-informational?style=flat&logo=python&logoColor=0197FF&color=0197FF)
 ![](https://img.shields.io/badge/Using-Flask-informational?style=flat&logo=flask&logoColor=0197FF&color=0197FF) 
