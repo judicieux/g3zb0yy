@@ -1,5 +1,5 @@
 ## <code style="color:#0197FF">👤 About me</code>
-**io i'm g3zb0yy and i'm 16 years old.**<br/> 
+**io i'm g3zb0yy and i'm 19 years old.**<br/> 
 **I use github incidentally to expose my semi-public scripts.**<br/>
 **On the one hand to memorize my creations and on the other to show people how far I am in my progression.**<br/><br/>
 
